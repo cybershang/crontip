@@ -1,5 +1,5 @@
 # Crontip
-Crontip is a tool uesd for backup and install of crontab.
+Crontip is a tool used for backup and install of crontab.
 
 ## Installation
 You can install crontip by:
